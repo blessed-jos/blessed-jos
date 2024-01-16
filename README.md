@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @blessed-jos
+- 👋 Hi, I’m josh
 - 👀 I’m interested in getting to learn more about the ai tess
 - 🌱 I’m currently learning trying to get more into ai
 - 💞️ I’m looking to collaborate on a good friendship
 - 📫 How to reach me ...
-- 😄 Pronouns: josh
+- 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
 <!---
